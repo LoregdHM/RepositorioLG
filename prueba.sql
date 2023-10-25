@@ -1,1 +1,2 @@
-select * from atendime
+select * from atendime;
+select * from paciente;
